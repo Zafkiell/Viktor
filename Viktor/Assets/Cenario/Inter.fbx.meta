@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: d05d0a255f716b94780f85fd52551a62
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: lambert1
+    2100002: Pedra
+    2100004: Cone
+    2100006: Parede_Plataforma
+    2100008: PlataformaBaixa
+    2100010: Canos
+    2100012: Telhado3
+    2100014: Portao
+    2100016: Luz_Emergencia
+    2100018: Parede_Entrada_Fabrica
+    2100020: Capacete
+    2100022: Janelinha1
+    2100024: Poste
+    2100026: Coluna1
+    2100028: Pilastra1
+    2100030: Terra
+    2100032: Plataforma_FInal
+    2100034: ChaoF2
+    2100036: Cano1
+    2100038: Viga_Diferenciada
+    2100040: Fase_Final
+    2100042: Fase_6
+    2100044: Cano2
+    2100046: Arvore
+    2100048: Parede_Lateral5
+    2100050: Fase_5
+    2100052: Cama
+    2100054: Textura_Vigas
+    2100056: Parede_Lateral_salinha2
+    2100058: Salinha
+    2100060: Parede_Casa
+    2100062: Janelao
+    2100064: MEsa
+    2100066: Rodape
+    2100068: Escada
+    2100070: Tunel1
+    2100072: ParedeMenor_Entrada
+    2100074: Caninho
+    2100076: Caminho
+    2100078: Parede_Caminho
+    2100080: Geladeira
+    2100082: Tunel2
+    2100084: Base_Telhado4
+    2100086: Labirinto
+    2100088: Paredes_Fase_4
+    2100090: Telhado4
+    2100092: pasted__svgBlinn1
+    2100094: Chao4
+    2100096: Chao_Casa
+    2100098: Parede_Entrada
+    2100100: Parede_Entrada3
+    2100102: Parede_Saida3
+    2100104: Ponte
+    2100106: Entulho1
+    2100108: Entulho3
+    2100110: Tunel_F1
+    2100112: Plataforma_Redonda
+    2100114: Cone_Canto
+    2100116: Estrutura_F1
+    2100118: Armario
+    2100120: Pilastra3
+    2100122: Pilastra4
+    2100124: Entulho2
+    2100126: Escada_Tunel
+    2100128: Telhado_F2
+    2100130: Chao_6
+    2100132: Parede_Entrada2
+    2100134: Coluna2
+    2100136: Telhado_Fase1
+    2100138: Parede_Lateral_Fase1
+    2100140: Parede_Lateral2
+    2100142: Cano
+    2100144: Telhado_Salinha
+    2100146: Parede_saida2
+    2100148: Entulho4
+    2100150: Subida
+    2100152: Cama_Dog
+    2100154: Base_Chao_Inteiro
+    2100156: Chao_Fase_1
+    2100158: Chao_Entrada
+    2100160: Vigazona
+    2100162: Telhado_5
+    2100164: Parede_Lateral3
+    2100166: Montanha1
+    2100168: Ponte_Salinha
+    2100170: Fase_1_Parede_Saida
+    2100172: MonteTerra1
+    2100174: Portao_6
+    2100176: Telhado_6
+    2100178: Rampa
+    2100180: Chao3
+    2100182: Chao_5_1
+    2100184: Base_Telhado
+    2100186: Conezao
+    2100188: Telhado_Textura
+    2100190: PC
+    2100192: Portal
+    2100194: Cadeira
+    2100196: Porta_Quebrada
+    2100198: Montanha2
+    2100200: Estrutura1
+    2100202: pasted__Cerca_Textura
+    2100204: Pilastra2
+    2100206: Chao_5
+    2100208: Escada_Salinha
+    2100210: pasted__Fase_8
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: polySurface390
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Armario
+    second: {fileID: 2100000, guid: 3ddd2c7af4fa69943b3f6b810d364c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore
+    second: {fileID: 2100000, guid: d12d1a798bb476c45b0d0e61cb4cef3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Chao_Inteiro
+    second: {fileID: 2100000, guid: f75cd2f26a825c04b874c72650337d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Telhado
+    second: {fileID: 2100000, guid: c892a084506a363418ff1bcd32c4e853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Telhado4
+    second: {fileID: 2100000, guid: f61dc31796bb6bb4098395b8a5210f04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cadeira
+    second: {fileID: 2100000, guid: 45bc01c3c564a83498ae4ca786b60fa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cama
+    second: {fileID: 2100000, guid: 9e6155e097e1d0c47b054670edcdea8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cama_Dog
+    second: {fileID: 2100000, guid: e19667e90d647c74daa27942c7b0c8f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caminho
+    second: {fileID: 2100000, guid: 45001f96d4e5fde46be25915de56e099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caninho
+    second: {fileID: 2100000, guid: ed7dd4570f1f22542ab86ffe3ece4088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cano
+    second: {fileID: 2100000, guid: 5ab7e179550939a488a65b658725266e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cano1
+    second: {fileID: 2100000, guid: 6d1f116b716dd0a4ab2aef60b3588599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cano2
+    second: {fileID: 2100000, guid: 05e8c03a43c787541a3b7b5007d3e8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canos
+    second: {fileID: 2100000, guid: 391daa2e7d42ede4eb77d7daf83d4a90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capacete
+    second: {fileID: 2100000, guid: ac09666382e8aa245966fd8f52c6fc69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao3
+    second: {fileID: 2100000, guid: a11d4c9a21a008049a3238c6ad36af96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao4
+    second: {fileID: 2100000, guid: 7bd518101a65e774b803d38028bfc1d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChaoF2
+    second: {fileID: 2100000, guid: 2eee9b8b05c276b44a88edf4f5a75132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao_5
+    second: {fileID: 2100000, guid: ef2c3f99f6b8f1d45bc49a9fa68eb274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao_5_1
+    second: {fileID: 2100000, guid: d98562a97e5353844926dcff9585af0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao_6
+    second: {fileID: 2100000, guid: da5941ef2d64c654e9e0b66d7b2d4955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao_Casa
+    second: {fileID: 2100000, guid: 42be428849c73eb4bb6281b7856604b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao_Entrada
+    second: {fileID: 2100000, guid: 99e5c8895d4d19844a5df90f521c7107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao_Fase_1
+    second: {fileID: 2100000, guid: 4a9be3808ffc480478357868f9809785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coluna1
+    second: {fileID: 2100000, guid: 237bf622a81c25c45987177d00ba8af1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coluna2
+    second: {fileID: 2100000, guid: d90fb538bf19ccc4bad2384fa07b2191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone
+    second: {fileID: 2100000, guid: 7328160ad822a7f4494c4e37914aabe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone_Canto
+    second: {fileID: 2100000, guid: fabff00ac2eae4e4ead50204c895da43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conezao
+    second: {fileID: 2100000, guid: 99f5e2ddf57f42f4d948d90255315267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entulho1
+    second: {fileID: 2100000, guid: 6c3c46327dd5adb4284e4919b296dedc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entulho2
+    second: {fileID: 2100000, guid: 8e57ae6aa8a11bc4096bb15312aa2140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entulho3
+    second: {fileID: 2100000, guid: 4ed43f988206485449c0564e1ea93e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entulho4
+    second: {fileID: 2100000, guid: 694152db226a4b944ab7bad490c4d876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada
+    second: {fileID: 2100000, guid: 8055249d45e4717479645472f105c115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Salinha
+    second: {fileID: 2100000, guid: 110817ab574f0d149bcd1e7d93dbe511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada_Tunel
+    second: {fileID: 2100000, guid: fb8dd9e873b6e174ebe1560c34ee6f64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estrutura1
+    second: {fileID: 2100000, guid: 7686a2a37ef55d54fbf8229753299499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estrutura_F1
+    second: {fileID: 2100000, guid: bf377d763a157cf4fa1bf5956f7ed687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fase_1_Parede_Saida
+    second: {fileID: 2100000, guid: e20cdcc24b9718e4e9d3a2fcf5122bd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fase_5
+    second: {fileID: 2100000, guid: e08efe245a2eb0e4db6e45b3a9336544, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fase_6
+    second: {fileID: 2100000, guid: c173fa2b63138fd4f9f3ac1425d8a006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fase_Final
+    second: {fileID: 2100000, guid: cc5f83b49810f9845ab6b724e39710f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Geladeira
+    second: {fileID: 2100000, guid: 6981e83a6d65ffd4aaf2354c44c2f54b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janelao
+    second: {fileID: 2100000, guid: a3793210f2a277d469f1806de31ff2cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janelinha1
+    second: {fileID: 2100000, guid: d24ad9034f41f764ca9747cd7915f244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Labirinto
+    second: {fileID: 2100000, guid: 3d1cf44e839531540952b845e53b5475, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luz_Emergencia
+    second: {fileID: 2100000, guid: fa7ba2100f7d1d94cbfc6a4ea4764921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MEsa
+    second: {fileID: 2100000, guid: ff28723a6dbbd2741b048b31578511f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Montanha1
+    second: {fileID: 2100000, guid: 19377ff768b890c48aa9be969d62edfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Montanha2
+    second: {fileID: 2100000, guid: 5e8d39213646a3346bc1f232873cdbce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MonteTerra1
+    second: {fileID: 2100000, guid: 1318977c3e046b64d9fb3891d33a1730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PC
+    second: {fileID: 2100000, guid: 06958d2a4523eed4386a37652c588128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ParedeMenor_Entrada
+    second: {fileID: 2100000, guid: 040a8183a74c2864dbeda39e34e12155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Caminho
+    second: {fileID: 2100000, guid: 8858f0b06a5f4cf44a499ec3928cbc5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Casa
+    second: {fileID: 2100000, guid: 0fcf2d6e9b0cb564bb5be75f4a05d443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Entrada
+    second: {fileID: 2100000, guid: ec2c34e860a229e44b5d42b1f577ce89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Entrada2
+    second: {fileID: 2100000, guid: f378c7369ef33b4489e0eea4506fdb86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Entrada3
+    second: {fileID: 2100000, guid: 743330b16ccea9649b9022fba09d5c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Entrada_Fabrica
+    second: {fileID: 2100000, guid: c45fb10081388db41966a85b3a18c8ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Lateral2
+    second: {fileID: 2100000, guid: 67ab02c1c558095499c730e384d24bff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Lateral3
+    second: {fileID: 2100000, guid: 71e8a75196bdd984092966a3169ae593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Lateral5
+    second: {fileID: 2100000, guid: 7c61078fdac893a4ea3465147370cdc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Lateral_Fase1
+    second: {fileID: 2100000, guid: fc09d74b5cb33ca409a8b5c299e6a82a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Lateral_salinha2
+    second: {fileID: 2100000, guid: 67862be5bb98a2f4caf07b75eb05281b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Plataforma
+    second: {fileID: 2100000, guid: cdc3b3ebeccc5944eb93dcd9368b2b94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Saida3
+    second: {fileID: 2100000, guid: 7a7bf54c3834dad43b72ab58d80e4562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_saida2
+    second: {fileID: 2100000, guid: 4c61085a71fcf144f8954675ca4cf645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paredes_Fase_4
+    second: {fileID: 2100000, guid: 0f29a87a4cbf55142834e5e681b08e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pedra
+    second: {fileID: 2100000, guid: b177cb5b729a6644b90562cd6973cefc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilastra1
+    second: {fileID: 2100000, guid: ba63b9f10260b4f469fd96de8f5bac92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilastra2
+    second: {fileID: 2100000, guid: 9a6881b38f6f5b847bf0d7f405cb3d54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilastra3
+    second: {fileID: 2100000, guid: 8a8df3cdf5287c64fa8a727018baccb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilastra4
+    second: {fileID: 2100000, guid: fea460831c223754c8904e97d43d1e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlataformaBaixa
+    second: {fileID: 2100000, guid: 3e0aa1a788bbd844a8a1f0204ab3c763, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plataforma_FInal
+    second: {fileID: 2100000, guid: 94fcd914cedcd7e49919360547fde1d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plataforma_Redonda
+    second: {fileID: 2100000, guid: 5704b1485c7203149b5cf4777700a446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ponte
+    second: {fileID: 2100000, guid: ca8755b742955a1459008490f22c7882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ponte_Salinha
+    second: {fileID: 2100000, guid: 972671414e5c3ca4e9548a66b6f2360d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta_Quebrada
+    second: {fileID: 2100000, guid: d443c6ae03cad3140b581263753a7e6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portal
+    second: {fileID: 2100000, guid: 00c4d067ec7248e41a8e68fa46bba3f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portao
+    second: {fileID: 2100000, guid: 38bfa5a26e8bd5b48b37296203662790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portao_6
+    second: {fileID: 2100000, guid: 1c99316dc89470f47b06e212ef3a6a57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poste
+    second: {fileID: 2100000, guid: ac7b55f88d16ac745832aa34f1547dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rampa
+    second: {fileID: 2100000, guid: d332686bb100ca24da75b4eff367f795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rodape
+    second: {fileID: 2100000, guid: dbca6a3d96b53c743b9737297386dbcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Salinha
+    second: {fileID: 2100000, guid: 67000dd8e85873042a018052420be9ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Subida
+    second: {fileID: 2100000, guid: 19830893d5eda0341ae7d4f10e688ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telhado3
+    second: {fileID: 2100000, guid: adf174c23ebbc4f40ac18048e4320b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telhado4
+    second: {fileID: 2100000, guid: 77571cf437aa0c344b39cc8ec07a4ff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telhado_5
+    second: {fileID: 2100000, guid: d28dde0acfa60714db95bc603cd9bef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telhado_6
+    second: {fileID: 2100000, guid: 71ca88ce7c8bbbe4f89a562b2c16234d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telhado_F2
+    second: {fileID: 2100000, guid: c2b55565b007ca944804ac0d96e807b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telhado_Fase1
+    second: {fileID: 2100000, guid: befcd2975c2dac74094889194bb63325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telhado_Salinha
+    second: {fileID: 2100000, guid: f678425198fa6664890102106852ce34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telhado_Textura
+    second: {fileID: 2100000, guid: 0b090869d198b6e43b2bef4936be274f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra
+    second: {fileID: 2100000, guid: 6fa3bd7b2d6bba04693cc01807f2dc5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textura_Vigas
+    second: {fileID: 2100000, guid: 0dc761b7e43a9dd4bb141381651d57e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tunel1
+    second: {fileID: 2100000, guid: e97d3408ca3b49846a26d47c52c6bf9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tunel2
+    second: {fileID: 2100000, guid: 87c2f512d8c3cf5499d07da723d51046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tunel_F1
+    second: {fileID: 2100000, guid: a546165daa1314d4dbf7565d2138b4f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Viga_Diferenciada
+    second: {fileID: 2100000, guid: 8deaccdcc86e67c47bcf2be1e756edcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vigazona
+    second: {fileID: 2100000, guid: ac4d993b40c61bf4c875b117dff1b1f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 66352677d5d083d49b031b43b56f7d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Cerca_Textura
+    second: {fileID: 2100000, guid: f380bea70c497fd4a977d67ed670dba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Fase_8
+    second: {fileID: 2100000, guid: a32854cc1b3e3d548a5c9bba5a0fc17c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__svgBlinn1
+    second: {fileID: 2100000, guid: da33fe27a92e1314ba4c6eb15a22fe97, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
